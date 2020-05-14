@@ -1,0 +1,14 @@
+/Users/tcode/Desktop/CrowdConnected/Xamarin/ColocatorFormsSample/ColocatorFormsSample/obj/Debug/netstandard2.0/ColocatorFormsSample.csprojAssemblyReference.cache
+/Users/tcode/Desktop/CrowdConnected/Xamarin/ColocatorFormsSample/ColocatorFormsSample/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/tcode/Desktop/CrowdConnected/Xamarin/ColocatorFormsSample/ColocatorFormsSample/obj/Debug/netstandard2.0/MainPage.xaml.g.cs
+/Users/tcode/Desktop/CrowdConnected/Xamarin/ColocatorFormsSample/ColocatorFormsSample/obj/Debug/netstandard2.0/ColocatorFormsSample.csproj.CoreCompileInputs.cache
+/Users/tcode/Desktop/CrowdConnected/Xamarin/ColocatorFormsSample/ColocatorFormsSample/obj/Debug/netstandard2.0/ColocatorFormsSample.AssemblyInfoInputs.cache
+/Users/tcode/Desktop/CrowdConnected/Xamarin/ColocatorFormsSample/ColocatorFormsSample/obj/Debug/netstandard2.0/ColocatorFormsSample.AssemblyInfo.cs
+/Users/tcode/Desktop/CrowdConnected/Xamarin/ColocatorFormsSample/ColocatorFormsSample/bin/Debug/netstandard2.0/ColocatorFormsSample.deps.json
+/Users/tcode/Desktop/CrowdConnected/Xamarin/ColocatorFormsSample/ColocatorFormsSample/bin/Debug/netstandard2.0/ColocatorFormsSample.dll
+/Users/tcode/Desktop/CrowdConnected/Xamarin/ColocatorFormsSample/ColocatorFormsSample/bin/Debug/netstandard2.0/ref/ColocatorFormsSample.dll
+/Users/tcode/Desktop/CrowdConnected/Xamarin/ColocatorFormsSample/ColocatorFormsSample/bin/Debug/netstandard2.0/ColocatorFormsSample.pdb
+/Users/tcode/Desktop/CrowdConnected/Xamarin/ColocatorFormsSample/ColocatorFormsSample/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/tcode/Desktop/CrowdConnected/Xamarin/ColocatorFormsSample/ColocatorFormsSample/obj/Debug/netstandard2.0/ColocatorFormsSample.dll
+/Users/tcode/Desktop/CrowdConnected/Xamarin/ColocatorFormsSample/ColocatorFormsSample/obj/Debug/netstandard2.0/ref/ColocatorFormsSample.dll
+/Users/tcode/Desktop/CrowdConnected/Xamarin/ColocatorFormsSample/ColocatorFormsSample/obj/Debug/netstandard2.0/ColocatorFormsSample.pdb

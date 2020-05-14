@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms" xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" xmlns:d="http://xamarin.com/schemas/2014/forms/design" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" mc:Ignorable="d" x:Class="ColocatorFormsSample.MainPage">
+    <ScrollView>
+    <StackLayout>
+         <Label Text="Colocator Integration with Forms" HorizontalOptions="Center"  Margin="0,80,0,40" FontSize="Large" />
+        <Label Text="Base Methods" HorizontalOptions="Center" Margin="0,20,0,20" FontSize="Medium" />
+
+        <StackLayout Orientation="Horizontal" HorizontalOptions="Center">
+            <Button Text="Start Colocator" Clicked="Click_Start_Colocator" HorizontalOptions="Center" VerticalOptions="CenterAndExpand"/>
+            <Button Text="Stop Colocator" Clicked="Click_Stop_Colocator" HorizontalOptions="Center" VerticalOptions="CenterAndExpand"/>
+        </StackLayout>
+
+        <Button Text="Add Alias" Clicked="Click_Add_Alias" HorizontalOptions="Center" VerticalOptions="CenterAndExpand"/>
+        <Button Text="Get Device ID" Clicked="Click_Get_Device_ID" HorizontalOptions="Center" VerticalOptions="CenterAndExpand"/>
+        <Label Text="" x:Name="outputLabel" HorizontalOptions="Center" VerticalOptions="CenterAndExpand"/>
+
+        <Label Text="iOS Features" HorizontalOptions="Center" Margin="0,20,0,0"/>
+        <StackLayout Orientation="Horizontal" HorizontalOptions="Center">
+            <Button Text="Bluetooth Perm" Clicked="Click_Bluetooth_Perm" HorizontalOptions="Center" VerticalOptions="CenterAndExpand"/>
+            <Button Text="Motion Perm " Clicked="Click_Motion_Perm" HorizontalOptions="Center" VerticalOptions="CenterAndExpand"/>
+        </StackLayout>
+        <Button Text="Integration Test" Clicked="Click_Integration_Test" HorizontalOptions="Center" VerticalOptions="CenterAndExpand"/>
+     
+        <Label Text="Android Features" HorizontalOptions="Center" Margin="0,20,0,0"/>
+        <Button Text="Start Foreground Service" Clicked="Click_Foreground_Service" HorizontalOptions="Center" VerticalOptions="CenterAndExpand"/>
+
+        <Label Text="Location methods" HorizontalOptions="Center" Margin="0,50,0,0"/>
+        <Button Text="Get One Location" Clicked="Click_Get_One_Location" HorizontalOptions="Center" />
+        <Button Text="Register to Locations" Clicked="Click_Register_Locations" HorizontalOptions="Center" />
+        <Button Text="Unregister from Locations" Clicked="Click_Unregister_Locations" HorizontalOptions="Center" Margin="0,0,0,50"/>
+    </StackLayout>
+    </ScrollView>
+</ContentPage>
